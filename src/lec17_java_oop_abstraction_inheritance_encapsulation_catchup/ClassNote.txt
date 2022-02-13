@@ -1,0 +1,14 @@
+Can we extend more than one class? - No
+Can we implement more than one interface? - Yes
+
+Parameter = Declaration, we do not pass value
+Argument = Initialization, the value
+
+Abstraction - use of abstract method, implementation hiding
+Inheritance - get access the properties of the base class
+Encapsulation - data hiding using getter and setter
+
+Access Modifier - public , protected, private, default
+Non-Access Modifier - static, void, abstract, synchronized
+
+Object class - base (parent) class of all class
